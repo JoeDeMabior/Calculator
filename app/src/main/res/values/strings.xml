@@ -6,4 +6,5 @@
     <string name="subtract">-</string>
     <string name="multiply">x</string>
     <string name="divide">÷</string>
+    <string name="computation_error">Error</string>
 </resources>
